@@ -18,10 +18,24 @@ public class Horoscope {
 	if(star.equals("gemini")){
 	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Gemini are great conversationalists, and\n are charming people. Interesting to speak with, Gemini\n know a little bit about a lot of things. They have a great sense\n of humor and are generally optimistic people. Gemini often make \ntheir own fun, despising boredom.");
 	}
-	
-	
-	
-	
+	if(star.equals("cancer")){
+	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Cancer have an offbeat sense of humor, often\n finding something humorous that others don’t. They are\n extremely good listeners and have a heart for the problems \nof others. In fact, many gravitate toward this sign because they \nintuitively know that a Cancer will understand. ");
+	}
+	if(star.equals("virgo")) {
+	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Virgo have a heart for their fellow man. \nThey are kind, patient and love to laugh. They are not loud\n ‘look at me’ signs, but rather prefer to be the strong, \nsilent type. They are creative thinkers and true family oriented \npeople. Male Virgo, once they are committed to relationship\n never walk away. Female Virgo are dedicated\n parents, often parenting other children in the \nneighborhood.");
+	}
+	if(star.equals("libra")){
+	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Libra all have a sense of fair play about\n them and become completely upset if they perceive that\n something is unfair or unjust. They are prone to talking for\n long periods of time about their favorite subjects. Generally the\n decisions that a Libra makes are the ones that will benefit\n the most people. Libra are often self-sacrificing\n for the good of the team or the family.");	
+	}
+ 	if(star.equals("scorpio")){
+ 	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Scorpio exhibit extreme self-control in many\n areas, and as a result expect that of those around them.\n They are disciplined, protective and are very interested \nin others. They give of themselves but do expect the same in \nreturn. Scorpio males and females both need to be the leaders,\n and excel at problem solving and troubleshooting \nprojects and situations.");
+ 	}
+	if(star.equals("sagittarius")) {
+	JOptionPane.showMessageDialog(null,"Your Horoscope:\n  Sagittarians are highly intelligent and love\n to be around intelligent people. They enjoy learning\n new things, traveling to new places, and experiencing unique\n adventures. Creativity is at the core of who they are and\n Sagittarians are often creating and recreating their living\n situations, work situations, and human relationships. ");
+	}
+	if(star.equals("capricorn")) {
+	JOptionPane.showMessageDialog(null,"Your Horoscope:\n Capricorns are the superheroes when It comes \nto making realistic, logical decisions. Their ability\n to cut through the red tape and see the bottom line is what makes\n them a real asset to any relationship or occupation where\n teamwork is valued. Capricorn are family oriented, but will \nkeep their distance if the family is perceived to\n be violent, harmful, or unfulfilling. ");
+	}
 	
 	
 	
