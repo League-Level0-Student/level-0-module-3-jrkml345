@@ -40,7 +40,7 @@ public class BirthdayReminder {
 			}
 			else if(bbb.equalsIgnoreCase("Tra")) {
 				System.out.println(trasBirthday);
-			}sssss
+			}
 		//7. otherwise print "Sorry, i don't remember that person's birthday!"
 			else {
 				System.out.println("Sorry, i don't remember that person's birthday!");
